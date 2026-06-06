@@ -199,9 +199,12 @@ docker-compose up --build
 ## 📁 Exemplo de `.env`
 
 ```env
-POSTGRES_USER=admin
-POSTGRES_PASSWORD=admin123
-POSTGRES_DB=firerisk
+POSTGRES_USER=admin 
+POSTGRES_PASSWORD=admin123 
+POSTGRES_DB=pyromining
+
+EMAIL_USER=example@email.com
+EMAIL_PASSWORD=password
 
 MINIO_ACCESS_KEY=minio
 MINIO_SECRET_KEY=minio123
