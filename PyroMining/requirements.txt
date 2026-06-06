@@ -1,0 +1,9 @@
+# pandas 
+# numpy 
+# scikit-learn 
+# torch 
+# mlflow 
+# psycopg2-binary 
+# python-dotenv 
+# requests 
+# matplotlib
