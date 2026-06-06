@@ -150,10 +150,10 @@ O resultado é uma classificação em faixas de risco (baixo, moderado, alto, mu
 
 | Recurso               | Imagem Estática                        |
 | --------------------- | -------------------------------------- |
-| Power BI Dashboard | <img width="1008" height="574" alt="Image" src="https://github.com/user-attachments/assets/cba0606e-b6bc-41e5-9ac2-4c237811fc43" /> |
-| MLflow Tracking    | <img width="1171" height="565" alt="Image" src="https://github.com/user-attachments/assets/ef761563-5448-4d63-9e63-03c4f4cce7b7" /> |
-| DAGs Airflow      | <img width="1227" height="516" alt="Image" src="https://github.com/user-attachments/assets/2b264fe3-fa83-40d2-b699-071a4b7cf97b" /> |
-| E-mail de Alerta   | <img width="527" height="634" alt="Image" src="https://github.com/user-attachments/assets/8ed9539b-e48b-42c1-8e37-4d6456e5bb04" /> |
+| Power BI Dashboard | <img width="464" height="389" alt="Image" src="https://github.com/user-attachments/assets/9fe1a922-c8e0-47b4-979a-bdd2ee2dec37" /> |
+| MLflow Tracking    | <img width="805" height="393" alt="Image" src="https://github.com/user-attachments/assets/d28035d1-a162-431c-bdb5-35fc8b2899e1" /> |
+| DAGs Airflow      | <img width="847" height="356" alt="Image" src="https://github.com/user-attachments/assets/7a790b87-c328-49fb-9908-ffed5c7a1e88" /> |
+| E-mail de Alerta   | <img width="364" height="440" alt="Image" src="https://github.com/user-attachments/assets/8ac430b5-b53d-4df0-86a4-9dbc7a42c788" /> |
 
 ---
 
@@ -177,7 +177,7 @@ O resultado é uma classificação em faixas de risco (baixo, moderado, alto, mu
 
 ```bash
 git clone https://github.com/AzyonDatamining/Azyon.git
-cd Azyon
+cd PyroMining
 ```
 
 ### 2. Configure seu `.env`
