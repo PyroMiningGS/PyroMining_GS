@@ -1,5 +1,4 @@
 # Pyro Mining - Prever para Proteger
-
 ---
 
 ## Visão Geral do Projeto
