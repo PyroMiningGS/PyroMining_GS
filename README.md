@@ -175,7 +175,7 @@ O resultado é uma classificação em faixas de risco (baixo, moderado, alto, mu
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/AzyonDatamining/Azyon.git
+git clone https://github.com/PyroMiningGS/PyroMining_GS
 cd PyroMining
 ```
 
