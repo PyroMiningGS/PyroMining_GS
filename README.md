@@ -1,4 +1,4 @@
-# Pyro Mining - Prever para Proteger
+<img width="465" height="353" alt="Image" src="https://github.com/user-attachments/assets/8f2651b6-8b24-4c08-b329-9e994b8be308" /> # Pyro Mining - Prever para Proteger
 ---
 
 ## Visão Geral do Projeto
