@@ -210,10 +210,10 @@ MINIO_SECRET_KEY=minio123
 MINIO_BUCKET=inmet-data
 
 MLFLOW_TRACKING_URI=http://localhost:5000
-MLFLOW_EXPERIMENT_NAME=fire-risk-model
+MLFLOW_EXPERIMENT_NAME=monte-alegre-model
 
 KAFKA_BROKER=localhost:9092
-KAFKA_TOPIC=fire-risk-input
+KAFKA_TOPIC=monte-alegre-input
 
 EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
